@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lets Laugh</string>
+    <string name="network_err">Please check your Network Settings!</string>
+    <string name="service_err">Sorry, unable to make you laugh. Try later!</string>
+</resources>
